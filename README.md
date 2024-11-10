@@ -12,8 +12,6 @@ I work on [Ubuntu 24.04 LTS](https://ubuntu.com/), utilizing a [VivoBook ASUS M1
 
 I also use my old ASUS laptop as a server, where I’ve set up [YunoHost](https://yunohost.org/) & [NextCloud](https://nextcloud.com/fr/).
 
-My current IDE is [Visual Studio Code](https://code.visualstudio.com/), and I use [Git](https://git-scm.com/) to manage my code.
-
 ## A bunch of things I use
 ### `OS`
 
