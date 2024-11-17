@@ -46,8 +46,7 @@ I also use my old ASUS laptop as a server, where I’ve set up [YunoHost](https:
 
 
 
-### `Apps & Tools`
-![](    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### `Apps`
 ![](    https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![](    https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
