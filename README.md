@@ -8,14 +8,14 @@
 
 **Welcome!** I'm `UltraGeoPro`, a backend developer, data analyst, web developer (HTML/CSS, i know just beginnings, sorry).
 
-I work on [Ubuntu 24.04 LTS](https://ubuntu.com/), utilizing a [VivoBook ASUS M1603 laptop](https://www.asus.com/us/laptops/for-home/vivobook/vivobook-16x-m1603-amd-ryzen-5000-series/).
+I work on [Arch Linux](https://archlinux.org/), utilizing a [VivoBook ASUS M1603 laptop](https://www.asus.com/us/laptops/for-home/vivobook/vivobook-16x-m1603-amd-ryzen-5000-series/).
 
 I also use my old ASUS laptop as a server, where I’ve set up [YunoHost](https://yunohost.org/) & [NextCloud](https://nextcloud.com/fr/).
 
 ## A bunch of things I use
 ### `OS`
 
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ### `Languages`
 
