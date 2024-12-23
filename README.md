@@ -8,14 +8,14 @@
 
 **Welcome!** I'm `UltraGeoPro`, a backend developer, data analyst, web developer (HTML/CSS, i know just beginnings, sorry).
 
-I work on [Arch Linux](https://archlinux.org/), utilizing a [VivoBook ASUS M1603 laptop](https://www.asus.com/us/laptops/for-home/vivobook/vivobook-16x-m1603-amd-ryzen-5000-series/).
+I work on [Mac OS Sequoia](https://www.apple.com/macos/macos-sequoia/), utilizing a [13-inch MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air/13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-16gb-memory-512gb#).
 
 I also use my old ASUS laptop as a server, where I’ve set up [YunoHost](https://yunohost.org/) & [NextCloud](https://nextcloud.com/fr/).
 
 ## A bunch of things I use
 ### `OS`
 
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### `Languages`
 
