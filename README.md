@@ -8,7 +8,7 @@
 
 **Welcome!** I'm `UltraGeoPro`, a backend developer, data analyst, web developer (HTML/CSS, i know just beginnings, sorry).
 
-I work on [Mac OS Sequoia](https://www.apple.com/macos/macos-sequoia/), utilizing a [13-inch MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air/13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-16gb-memory-512gb#).
+I work on [Mac OS Sequoia](https://www.apple.com/macos/macos-sequoia/), utilizing [13-inch MacBook Air](https://www.apple.com/shop/buy-mac/macbook-air/13-inch-midnight-apple-m3-chip-with-8-core-cpu-and-10-core-gpu-16gb-memory-512gb#) & [14-inch MacBook Pro](https://support.apple.com/en-us/111902).
 
 I also use my old ASUS laptop as a server, where I’ve set up [YunoHost](https://yunohost.org/) & [NextCloud](https://nextcloud.com/fr/).
 
